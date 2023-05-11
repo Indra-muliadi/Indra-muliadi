@@ -1,6 +1,3 @@
-### Hi there 👋
-
-
 # Hi there! 👋
 
 I'm Indra Muliadi, a statistician and data scientist that learn to using data to drive insights and solve complex problems. 
